@@ -1,6 +1,7 @@
-## Hi there 👋
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/677894d870129741a82468c1?variant=light" alt="roadmap.sh"/></a>
 
 <!--
+## Hi there 👋
 **hamduuye/hamduuye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
